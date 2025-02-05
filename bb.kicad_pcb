@@ -49123,6 +49123,17 @@
 		(layer "F.SilkS")
 		(uuid "300b830c-a105-434d-b9b9-33f2d668e277")
 	)
+	(gr_arc
+		(start 79 79.177321)
+		(mid 82.905124 80.794876)
+		(end 84.522679 84.7)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "30267cc3-e624-413a-9bb5-36feb02b2a69")
+	)
 	(gr_line
 		(start 113.892825 49.506477)
 		(end 113.900823 49.545228)
@@ -51412,6 +51423,16 @@
 		(uuid "4e389a41-64a5-4cf1-9af8-c34b9e635a87")
 	)
 	(gr_line
+		(start 84 84.177321)
+		(end 84.522679 84.7)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "4e7ebb45-65e3-4b08-86f9-20935bec34f9")
+	)
+	(gr_line
 		(start 124.019434 49.205098)
 		(end 124.02375 49.208657)
 		(stroke
@@ -52765,6 +52786,16 @@
 		(uuid "6066448c-2a75-4dbe-b7f3-6682dd58231c")
 	)
 	(gr_line
+		(start 136 79)
+		(end 135.5 78.5)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "606b6344-8eb6-477e-806d-43db94293042")
+	)
+	(gr_line
 		(start 109.507073 51.762397)
 		(end 109.515993 51.772186)
 		(stroke
@@ -53214,6 +53245,17 @@
 		)
 		(layer "F.SilkS")
 		(uuid "65f9f147-17b8-45d3-94b9-a43c7606a103")
+	)
+	(gr_arc
+		(start 130.477321 84.522679)
+		(mid 132.094876 80.617555)
+		(end 136 79)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "6616106c-fc87-48c7-8b32-6340b39094cb")
 	)
 	(gr_line
 		(start 112.560621 49.705464)
@@ -57528,6 +57570,16 @@
 		(uuid "9bd3838f-e4a7-41a1-9e67-7bf908584f4b")
 	)
 	(gr_line
+		(start 84.522679 84.7)
+		(end 85.022679 84.2)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "9bea4d39-8cd0-4182-a78f-22acb6041dd4")
+	)
+	(gr_line
 		(start 124.298914 51.539142)
 		(end 124.307494 51.446806)
 		(stroke
@@ -60399,6 +60451,16 @@
 		(uuid "bc6701b6-b19e-4a23-b5d6-275525a7440b")
 	)
 	(gr_line
+		(start 84.522679 84.7)
+		(end 84 84.177321)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "bca238d9-1f66-4a5e-a2ef-1ebb6750c081")
+	)
+	(gr_line
 		(start 116.539683 51.781494)
 		(end 116.548297 51.763512)
 		(stroke
@@ -62003,6 +62065,16 @@
 		)
 		(layer "F.SilkS")
 		(uuid "d002a8c9-be0b-4d9d-8fef-09c245078a68")
+	)
+	(gr_line
+		(start 136 79)
+		(end 135.477321 79.522679)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "d01a2a85-2835-4dbc-9e0c-75e1c3cf7ee7")
 	)
 	(gr_line
 		(start 110.823008 49.436779)
@@ -68427,6 +68499,18 @@
 			)
 		)
 	)
+	(gr_text "sensitivity"
+		(at 80.6 78.1 -45)
+		(layer "F.SilkS")
+		(uuid "7d9bf850-27ee-4a7d-943d-c9e3926aa73c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "binaural beeps"
 		(at 105.6 98.3 45)
 		(layer "F.SilkS" knockout)
@@ -69190,6 +69274,18 @@
 					(xy 97.289986 83.93411) (xy 98.003175 83.93411) (xy 98.003175 84.172979) (xy 97.289986 84.172979)
 				)
 			)
+		)
+	)
+	(gr_text "sensitivity"
+		(at 129.4 82.922679 45)
+		(layer "F.SilkS")
+		(uuid "e5938405-5204-4fa5-b20f-5bd3d5ba60ca")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
 		)
 	)
 	(gr_text "fb L"
