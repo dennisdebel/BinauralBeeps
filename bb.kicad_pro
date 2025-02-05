@@ -77,7 +77,7 @@
         "footprint": "error",
         "footprint_symbol_mismatch": "warning",
         "footprint_type_mismatch": "ignore",
-        "hole_clearance": "error",
+        "hole_clearance": "ignore",
         "hole_near_hole": "error",
         "holes_co_located": "warning",
         "invalid_outline": "error",
@@ -446,7 +446,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "cheap2.kicad_pro",
+    "filename": "bb.kicad_pro",
     "version": 1
   },
   "net_settings": {
