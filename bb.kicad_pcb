@@ -69372,7 +69372,7 @@
 			)
 		)
 	)
-	(gr_text "the gnd of esp is missing in verion 0.2"
+	(gr_text "the gnd of esp is missing in version 0.2"
 		(at 127.2 113.8 0)
 		(layer "User.3")
 		(uuid "dbb78a0d-b64d-48f2-ba39-1c134cb3399e")
